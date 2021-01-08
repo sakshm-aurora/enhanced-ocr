@@ -1,0 +1,15 @@
+.text-danger {
+    color: red;
+}
+
+.text-success {
+    color: dodgerblue;
+}
+
+.clickable:hover {
+    cursor: pointer;
+}
+
+span {
+    display: inline-block;
+}
